@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.5342607, g: 0.8328695, b: 0.9652136, a: 1}
+  m_IndirectSpecularColor: {r: 0.5337635, g: 0.8324773, b: 0.9660514, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4323,7 +4323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  pivotObject: {fileID: 0}
+  pivotObject: {fileID: 1627325187}
   rotationAngle: 90
 --- !u!1001 &1606819945
 PrefabInstance:
@@ -4471,6 +4471,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 791c30b04e8fc1e4fbf198c410a652e2, type: 3}
+--- !u!4 &1627325187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7868246361941854742, guid: b77c2a1cceb05ae4f9113d32ef8bfb9b, type: 3}
+  m_PrefabInstance: {fileID: 1277914719}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1628882048
 PrefabInstance:
   m_ObjectHideFlags: 0
